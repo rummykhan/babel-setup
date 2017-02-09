@@ -1,10 +1,5 @@
 
+window.Observer = require('./observer');
 
-class Click {
 
-    constructor(){
-        alert('rummykhan');
-    }
-}
-
-new Click();
+var x = new Observer();
