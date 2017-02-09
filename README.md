@@ -1,6 +1,6 @@
-# Babel Initial setup for Dev
+ Babel Initial setup for Dev
  ----------------------------
   
   - npm install
   - npm webpack
-  
+  - npm start
