@@ -1,6 +1,7 @@
  Babel Initial setup for Dev
  ----------------------------
   
-  - npm install
-  - npm webpack
-  - npm start
+  - `npm install`
+  - `npm run webpack`
+  - `npm run start`
+  - Go to `localhost:8080`
